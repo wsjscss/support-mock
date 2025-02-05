@@ -41,7 +41,9 @@
       "agent": {
         "nickname": "AliceL",
         "avatarUrl": ""
-      }
+      },
+      "unreadCommentsCount": 53,
+      "hasUnreadComments": true
     },
     {
       "ulid": "6",
@@ -54,7 +56,9 @@
       "agent": {
         "nickname": "JamesB",
         "avatarUrl": ""
-      }
+      },
+      "unreadCommentsCount": 0,
+      "hasUnreadComments": false
     },
     {
       "ulid": "7",
@@ -67,7 +71,9 @@
       "agent": {
         "nickname": "ElenaM",
         "avatarUrl": ""
-      }
+      },
+      "unreadCommentsCount": 7,
+      "hasUnreadComments": true
     },
     {
       "ulid": "8",
@@ -80,7 +86,9 @@
       "agent": {
         "nickname": "DavidC",
         "avatarUrl": ""
-      }
+      },
+      "unreadCommentsCount": 10,
+      "hasUnreadComments": true
     },
     {
       "ulid": "9",
