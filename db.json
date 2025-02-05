@@ -150,5 +150,141 @@
       "unreadCommentsCount": 99999,
       "hasUnreadComments": true
     }
+  ],
+  "comments": [
+    {
+      "ulid": "comment-ulid-1",
+      "ticketUlid": "3",
+      "comment": "It's all about as much as she came up to her feet, for it to make personal remarks...",
+      "author": {
+        "isAgent": true,
+        "agent": {
+          "nickname": "Viola",
+          "avatarUrl": ""
+        }
+      },
+      "createdAt": "2025-01-28T00:00:00.000Z",
+      "updatedAt": "2025-01-28T00:00:00.000Z",
+      "unread": false
+    },
+    {
+      "ulid": "comment-ulid-2",
+      "ticketUlid": "3",
+      "comment": "I believe the issue has been escalated to the relevant team for investigation.",
+      "author": {
+        "isAgent": true,
+        "agent": {
+          "nickname": "Viola",
+          "avatarUrl": ""
+        }
+      },
+      "createdAt": "2025-01-28T01:00:00.000Z",
+      "updatedAt": "2025-01-28T01:00:00.000Z",
+      "unread": false
+    },
+    {
+      "ulid": "comment-ulid-3",
+      "ticketUlid": "3",
+      "comment": "Please check if the issue persists after clearing your browser cache.",
+      "author": {
+        "isAgent": true,
+        "agent": {
+          "nickname": "Viola",
+          "avatarUrl": ""
+        }
+      },
+      "createdAt": "2025-01-28T02:00:00.000Z",
+      "updatedAt": "2025-01-28T02:00:00.000Z",
+      "unread": false
+    },
+    {
+      "ulid": "comment-ulid-4",
+      "ticketUlid": "3",
+      "comment": "I'm still unable to access my booking details. Please provide further assistance.",
+      "author": {
+        "isAgent": false
+      },
+      "createdAt": "2025-01-28T03:00:00.000Z",
+      "updatedAt": "2025-01-28T03:00:00.000Z",
+      "unread": false
+    },
+    {
+      "ulid": "comment-ulid-5",
+      "ticketUlid": "3",
+      "comment": "We have identified the issue and are working on a fix. Thank you for your patience!",
+      "author": {
+        "isAgent": true,
+        "agent": {
+          "nickname": "Viola",
+          "avatarUrl": ""
+        }
+      },
+      "createdAt": "2025-01-28T04:00:00.000Z",
+      "updatedAt": "2025-01-28T04:00:00.000Z",
+      "unread": true
+    },
+    {
+      "ulid": "comment-ulid-6",
+      "ticketUlid": "3",
+      "comment": "When can I expect a resolution for this problem?",
+      "author": {
+        "isAgent": false
+      },
+      "createdAt": "2025-01-28T05:00:00.000Z",
+      "updatedAt": "2025-01-28T05:00:00.000Z",
+      "unread": true
+    },
+    {
+      "ulid": "comment-ulid-7",
+      "ticketUlid": "3",
+      "comment": "The estimated resolution time is within the next 24 hours.",
+      "author": {
+        "isAgent": true,
+        "agent": {
+          "nickname": "Viola",
+          "avatarUrl": ""
+        }
+      },
+      "createdAt": "2025-01-28T06:00:00.000Z",
+      "updatedAt": "2025-01-28T06:00:00.000Z",
+      "unread": true
+    },
+    {
+      "ulid": "comment-ulid-8",
+      "ticketUlid": "3",
+      "comment": "Thank you for the update. I will check again later.",
+      "author": {
+        "isAgent": false
+      },
+      "createdAt": "2025-01-28T07:00:00.000Z",
+      "updatedAt": "2025-01-28T07:00:00.000Z",
+      "unread": true
+    },
+    {
+      "ulid": "comment-ulid-9",
+      "ticketUlid": "3",
+      "comment": "The issue has been resolved. You should now be able to access your booking details.",
+      "author": {
+        "isAgent": true,
+        "agent": {
+          "nickname": "Viola",
+          "avatarUrl": ""
+        }
+      },
+      "createdAt": "2025-01-28T08:00:00.000Z",
+      "updatedAt": "2025-01-28T08:00:00.000Z",
+      "unread": true
+    },
+    {
+      "ulid": "comment-ulid-10",
+      "ticketUlid": "3",
+      "comment": "Everything is working now. Thanks for your help!",
+      "author": {
+        "isAgent": false
+      },
+      "createdAt": "2025-01-28T09:00:00.000Z",
+      "updatedAt": "2025-01-28T09:00:00.000Z",
+      "unread": true
+    }
   ]
 }
